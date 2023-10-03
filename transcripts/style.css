@@ -1,33 +1,3 @@
-@font-face {
-  font-family: Whitney;
-  src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-300.woff);
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: Whitney;
-  src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-400.woff);
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: Whitney;
-  src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-500.woff);
-  font-weight: 500;
-}
-
-@font-face {
-  font-family: Whitney;
-  src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-600.woff);
-  font-weight: 600;
-}
-
-@font-face {
-  font-family: Whitney;
-  src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-700.woff);
-  font-weight: 700;
-}
-
 body {
   background-color: #36393e;
   color: #dcddde;
