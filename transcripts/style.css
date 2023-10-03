@@ -46,21 +46,30 @@ body {
 
 .message {
     display: flex;
-    align-items: flex-start;
     margin-bottom: 10px;
 }
 
-.username {
-    font-weight: bold;
-    margin-right: 5px;
-    color: #7289da; /* Discord's username color */
+.avatar {
+    width: 40px; /* Adjust the size of the avatar */
+    height: 40px;
+    border-radius: 50%; /* Make it round */
+    margin-right: 10px;
 }
 
 .message-content {
+    flex-grow: 1;
     color: #ffffff; /* Text color for messages */
     background-color: #40444b; /* Discord's message background color */
     padding: 8px;
     border-radius: 8px;
+}
+
+/* Style bot's embedded messages */
+.bot-embedded-message {
+    background-color: #7289da; /* Bot's message background color */
+    color: #ffffff; /* Text color for bot's messages */
+    border-radius: 8px;
+    padding: 10px;
 }
 
 /* Style the message input area (optional) */
