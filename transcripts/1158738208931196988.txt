@@ -1,0 +1,10 @@
+Python Bot: 
+Python Bot: <@931499843866726441> has claimed this ticket.
+Dylan: !close
+Python Bot: Are you sure you want to close this ticket?
+Python Bot: An error occurred while closing the ticket.
+Dylan: !close
+Dylan: !close
+Dylan: !close
+Dylan: !close
+Python Bot: Are you sure you want to close this ticket?
